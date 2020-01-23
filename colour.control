@@ -1,0 +1,5 @@
+# colour extension
+comment = 'data type for representing colours'
+default_version = '1.0'
+module_pathname = '$libdir/colour'
+relocatable = true
